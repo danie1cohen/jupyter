@@ -1,0 +1,16 @@
+# temporary files
+.vagrant
+__pycache__
+
+
+# text
+*.csv
+*.xlsx
+*.tsv
+*.txt
+!requirements*.txt
+.ipynb_checkpoints
+settings.py
+settings.p
+settings.pyc
+pyWinRM.ipynb
