@@ -1,6 +1,5 @@
 apt-xapian-index==0.45
 backports-abc==0.4
-backports.ssl-match-hostname==3.5.0.1
 certifi==2015.11.20.1
 chardet==2.0.1
 Cheetah==2.4.4
@@ -9,7 +8,6 @@ colorama==0.2.5
 configobj==4.7.2
 decorator==4.0.9
 docopt==0.6.2
-functools32==3.2.3.post2
 html5lib==0.999
 httplib2==0.8
 ipykernel==4.2.2

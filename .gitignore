@@ -1,7 +1,11 @@
 # temporary files
 .vagrant
 __pycache__
+*.pyc
 
+# sensitive info
+settings.py
+settings.p
 
 # text
 *.csv
@@ -10,7 +14,4 @@ __pycache__
 *.txt
 !requirements*.txt
 .ipynb_checkpoints
-settings.py
-settings.p
-settings.pyc
-pyWinRM.ipynb
+*.ipynb
