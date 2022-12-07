@@ -1,6 +1,6 @@
 apt-xapian-index==0.45
 backports-abc==0.4
-certifi==2015.11.20.1
+certifi==2022.12.7
 chardet==2.0.1
 Cheetah==2.4.4
 cloud-init==0.7.5
